@@ -1,0 +1,12 @@
+iframe {
+    aspect-ratio: 16 / 9;
+    width: 100%; /* change this to a fixed width, or create a container with a width. */
+    height: 100%;
+  }
+
+.bigImage{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 30%;
+    width: 70%;
+}
