@@ -24,8 +24,8 @@ let vids=[
         "url": "https://www.youtube.com/watch?v=B_G6yfYnRzM"
     },
     {
-        "title": "Sleepless Not Restless (electric guitar duet)",
-        "url": "https://www.youtube.com/watch?v=_EMpLJPQLKg"
+        "title": "What's Happenin' Wednesday: Releasing a Vinyl Album in 2024",
+        "url": "https://www.youtube.com/watch?v=4sGOZdmkR74"
     },
     {
         "title": "Presque Isle Sunset 4/27/2024",
